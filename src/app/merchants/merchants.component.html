@@ -1,0 +1,56 @@
+<div class="merchant-accounts-parent-container table-responsive">
+
+  <div class="toogle-button-container">
+    <p>Demo Settings:</p>
+    <!-- <app-toggleswitch [label]="amount" (onToggle)="handleAmount($event)"></app-toggleswitch>  -->
+    <app-toggleswitch [label]="customer" (onToggle)="handleCustomer($event)"></app-toggleswitch>
+
+    <div class="card-link-container">
+      <a target="_blank" rel="noopener noreferrer"
+        href="https://docs.adyen.com/development-resources/test-cards/test-card-numbers">Test Card</a>
+    </div>
+  </div>
+
+  <table class="table table-hover table-striped table-borderless">
+    <thead>
+      <tr>
+        <th scope="col">
+          <p>Nr</p>
+        </th>
+        <th scope="col">
+          <p>Merchant Account Id</p>
+        </th>
+        <th scope="col">
+          <p>Comments</p>
+        </th>
+        <th scope="col">
+          <p>Stored Payment Method</p>
+        </th>
+        <th scope="col">
+          <p>Type Of Capture</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Display Merchants and routing to the products with selected merchant -->
+      <tr *ngFor="let item of (merchantAccounts$ | async); let i = index" (click)="setMerchant(item.MerchantAccount)"
+        [routerLink]="['/merchant/' + item.MerchantAccount.MerchantAccountId] + '/products'">
+        <th scope="row" class="normal-font">
+          <p>{{ i + 1 }}</p>
+        </th>
+        <td>
+          <p> {{ item.MerchantAccount.MerchantAccountId }} </p>
+        </td>
+        <td>
+          <p> {{ item.MerchantAccount.Comments }} </p>
+        </td>
+        <td>
+          <p> {{ item.MerchantAccount.StorePaymentMethodMode }} </p>
+        </td>
+        <td>
+          <p> {{ item.MerchantAccount.TypeOfCapture }} </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

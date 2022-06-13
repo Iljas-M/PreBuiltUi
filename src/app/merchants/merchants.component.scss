@@ -1,0 +1,43 @@
+.merchant-accounts-parent-container {
+    padding: 0.5rem;
+
+    table {
+
+        vertical-align: middle;
+        
+        .normal-font {
+            font-weight: normal;
+        }
+
+        tbody{
+            cursor: pointer;
+        }
+
+        thead{
+            box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+        }
+
+    }
+
+    .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+        background-color: #e9ecef;
+      }
+
+    .toogle-button-container{
+        display: flex; 
+        justify-content: flex-end; 
+        margin-bottom: 1.2rem;
+        box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+
+        .card-link-container{
+            a {
+                text-decoration: none;
+                color: black;
+           }
+
+           a:hover{
+                color: #726969;
+           }
+        }
+    }
+}

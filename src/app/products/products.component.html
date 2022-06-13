@@ -1,0 +1,11 @@
+<div class="products-parent-container">
+
+  <div class="row container-fluid">
+
+    <div class="col" *ngFor="let item  of(items$ | async); let i = index">
+      <app-card [product]="(item)" [index]="i.toString()" (checkout)="createSession($event)" ></app-card>
+    </div>
+   
+  </div>
+
+</div>

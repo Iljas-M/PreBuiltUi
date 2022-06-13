@@ -1,0 +1,40 @@
+<div class="card">
+
+  <div class="card-image-container">
+    <img class="card-img-top" src={{product.image}} alt="Image not found">
+  </div>
+
+  <div class="card-body">
+    <h5 class="card-title">{{product.subTitel}}</h5>
+    <h6 class="card-title">{{product.titel}}</h6>
+    <p class="card-text small text-muted">{{product.id}}</p>
+
+    <ng-container *ngIf="length >= 300; then showReadMe; else showDescription"></ng-container>
+    <ng-template #showReadMe>
+      <p class="card-text">
+        {{product.description | slice:0:length}}
+
+        <a class="read-more" data-bs-toggle="modal" href="{{index}}" (click)="handleReadMeClick(product)">
+          read more
+        </a>
+      </p>
+    </ng-template>
+    <ng-template #showDescription>
+      <p class="card-text">
+        {{product.description}}
+      </p>
+    </ng-template>
+
+    <app-modal [product]="product" [index]="index"></app-modal>
+
+  </div>
+
+  <div class="card-footer">
+    <h1 class="card-text text-center">{{product.price}}</h1>
+    <h1 class="card-text text-center">{{product.subPrice}}</h1>
+    <div class="button">
+      <button class="btn btn-primary center" (click)="handleCheckoutClick(product)">{{checkoutLabel}}</button>
+    </div>
+  </div>
+
+</div>

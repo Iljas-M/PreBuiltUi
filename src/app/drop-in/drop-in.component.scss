@@ -1,0 +1,26 @@
+.dropin-parent-container{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	.dropin-content-container {
+		
+		.dropin-titel{
+			margin-bottom: 0.7rem;
+			padding-bottom: 0.1rem;
+			box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+		}
+
+		.response-container{
+			height: 100%;
+			width: 100%;
+		}
+	}
+}
+
+
+.modal-body {
+
+	overflow-wrap: break-word;
+}

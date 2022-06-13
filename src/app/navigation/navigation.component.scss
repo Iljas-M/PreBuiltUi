@@ -1,0 +1,28 @@
+.navbar-container{
+    display: flex;
+    flex-flow: wrap;
+    height: 100%;
+    width: 100%;
+
+    .navbar-header-container{
+        display: flex;
+        flex-flow: wrap;
+        align-items: center;
+    }
+
+    .navbar-link-container{
+        display: flex;
+        align-items: center;
+        padding-left: 0.5rem;
+    
+        a {
+            display: flex;
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover {
+            color: #726969;
+        }
+    }
+}

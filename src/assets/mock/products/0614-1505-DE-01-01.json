@@ -1,0 +1,34 @@
+[
+    {
+        "titel": "Universal software for dimensional metrology applications",
+        "description": "With ZEISS CALYPSO, you will measure standard geometries easily, quickly and reliably. A single click on the required characteristics is all that is needed for programming. Thanks to numerous optional extensions, the software also offers the right tools for special requirements. ZEISS offers around 40 additional ZEISS CALYPSO software options for special applications and measurement tasks. You can purchase these in addition to the ZEISS CALYPSO universal measurement software to adapt the software to your individual measurement requirements.",
+        "subTitel": "ZEISS CALYPSO",
+        "merchantId": "0614-1505-DE-01-01",
+        "image": "assets/eSHOP/0614-1505-DE-01-01/calypso_product_image.ts-1635862273030.webp",
+        "price": "-1",
+        "subPrice": "30,00 €"
+    },
+    {
+        "titel": "Reporting and Statistical Analysis Software",
+        "description": "Now you do not have to be a software expert to create insightful reports: ZEISS PiWeb is a scalable reporting and statistical analysis software that helps you to transform measurement data into meaningful results.",
+        "subTitel": "ZEISS PiWeb",
+        "merchantId": "0614-1505-DE-01-01",
+        "image": "assets/eSHOP/0614-1505-DE-01-01/piweb-mockup-desktop-mobile.ts-1601888738672.webp",
+        "price": "-1",
+        "subPrice": "25,00 €"
+    },
+    {
+        "titel": "Entering the world of optical metrology",
+        "description": "Intuitive operation, high-quality camera and flexible lighting for precise measurement in an instant. Suitable for a wide variety of components, but mainly for those that are best left untouched. Discover the new generation of optical metrology: ZEISS O-DETECT.",
+        "subTitel": "ZEISS O-DETECT",
+        "merchantId": "0614-1505-DE-01-01",
+        "image": "assets/eSHOP/0614-1505-DE-01-01/o-detect.ts-1639734127983.webp"
+    },
+    {
+        "titel": "Fast exchange of 2 pallets",
+        "description": "Benefits: Minimal footprint, Improved ergonomics and accessibility and Optimized CMM utilization",
+        "subTitel": "Rotating setup station",
+        "merchantId": "0614-1505-DE-01-01",
+        "image": "assets/eSHOP/0614-1505-DE-01-01/zeiss-rotating-set-up-station.ts-1523027630501.webp"
+    }
+]

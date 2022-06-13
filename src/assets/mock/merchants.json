@@ -1,0 +1,1262 @@
+[
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-01",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": "enabled",
+      "TypeOfCapture": "AUT",
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-01-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-03-03",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-03",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0614-1505-DE-01-01",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  },
+  {
+    "MerchantAccount": {
+      "MerchantAccountId": "0000-0000-DE-02-02",
+      "RelatedContract": "Test Account",
+      "PaymentProvider": "ADYEN",
+      "SenderID": "TEST-02",
+      "CompanyCode": "0000",
+      "LegalEntityName": "Test Account",
+      "SalesOrg": "0000",
+      "CountryCode": "DE",
+      "Country": "Deutschland",
+      "Currency": "EUR",
+      "Configuration": "03",
+      "UseCaseConfiguration": "01",
+      "Comments": "Sandbox Account",
+      "StorePaymentMethodMode": null,
+      "TypeOfCapture": null,
+      "PspCompany": null
+    }
+  }
+]
