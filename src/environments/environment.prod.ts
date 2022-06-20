@@ -1,3 +1,5 @@
-export const environment = {
+export const Environment = {
+  apiHostPath: "",
+  esbApiSubscriptionKey: "",
   production: true
 };

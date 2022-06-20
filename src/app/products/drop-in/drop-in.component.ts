@@ -1,12 +1,9 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
+import { Router } from '@angular/router';
+import { CheckoutResponse } from '../../interfaces/checkoutResponse';
+import { createDefaultResponsePaymentMethod, ResponsePaymentMethod } from '../../interfaces/paymentMethod';
 import AdyenCheckout from '@adyen/adyen-web';
 import '@adyen/adyen-web/dist/adyen.css';
-import { JsonPipe } from '@angular/common';
-import { MerchantAccountService } from '../services/merchant-account.service';
-import { ActivatedRoute, Router } from '@angular/router';
-import { CheckoutResponse, Response } from '../interfaces/checkoutResponse';
-import { PaymentMethod } from '@adyen/api-library/lib/src/typings/checkout/paymentMethod';
-import { createDefaultResponsePaymentMethod, ResponsePaymentMethod } from '../interfaces/paymentMethod';
 import * as bootstrap from 'bootstrap';
 
 @Component({
@@ -15,9 +12,9 @@ import * as bootstrap from 'bootstrap';
   styleUrls: ['./drop-in.component.scss']
 })
 
-
 export class DropInComponent implements OnInit {
 
+  // Init.
   public configuration:any;
   public welcomeLabel = 'Dear new customer';
   public resultResponse:any;
@@ -28,8 +25,9 @@ export class DropInComponent implements OnInit {
 
   @ViewChild('modalContent') content: any;
 
-  constructor(private MerchantAccountService: MerchantAccountService, private router: Router) {    
+  constructor(private router: Router) {    
 
+    // Get the CheckoutResponse from Route State.
     if (this.router.getCurrentNavigation()?.extras.state) {
       this.routeState = this.router.getCurrentNavigation()?.extras.state;
       if (this.routeState) {
@@ -37,6 +35,7 @@ export class DropInComponent implements OnInit {
       }
     }
     
+    // Create new Configuration obj.
     const configuration = {
       environment: 'test', // Change to 'live' for the live environment.
       clientKey: 'test_QD4CONMRKVDNTDMDQ5GXR7XKJAJQTUYI', // Public key used for client-side authentication: https://docs.adyen.com/development-resources/client-side-authentication

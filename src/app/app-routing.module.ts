@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { DropInComponent } from './drop-in/drop-in.component';
+import { DropInComponent } from './products/drop-in/drop-in.component';
 import { MerchantsComponent } from './merchants/merchants.component';
 import { NotfoundComponent } from './notfound/notfound.component';
 import { ProductsComponent } from './products/products.component';
@@ -38,4 +38,5 @@ const routes: Routes = [
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
+
 export class AppRoutingModule { }

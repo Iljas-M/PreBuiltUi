@@ -8,6 +8,7 @@ import { createDefaultProduct, Product } from 'src/app/interfaces/product';
 })
 export class CardComponent implements OnInit {
 
+  // Init.
   public length = 0;
   public checkoutLabel = 'Payment Checkout';
 
@@ -19,6 +20,7 @@ export class CardComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  // Needs for Modal View.
   this.index = "#readMoreModal" + this.index;
 
   // Check the letters length.

@@ -1,5 +1,5 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
-import { createDefaultProduct, Product, Products } from 'src/app/interfaces/product';
+import { Component, Input, OnInit } from '@angular/core';
+import { Product } from 'src/app/interfaces/product';
 
 @Component({
   selector: 'app-modal',
@@ -12,11 +12,8 @@ export class ModalComponent implements OnInit {
   @Input() index!: string;
 
   public products:Product [] = [] ;
- //  @Input() titel = '';
 
-  constructor() {
-    
-   }
+  constructor() { }
 
   ngOnInit(): void {
     this.index = this.index.replace('#', '');

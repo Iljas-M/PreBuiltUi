@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "adyen": {
+    "prebuiltui": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/adyen",
+            "outputPath": "dist/prebuiltui",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -39,26 +39,50 @@
             "scripts": []
           },
           "configurations": {
-            "production": {
+            "prod": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "1kb",
+                  "maximumError": "1kb"
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "2kb",
-                  "maximumError": "4kb"
+                  "maximumWarning": "1kb",
+                  "maximumError": "1kb"
                 }
               ],
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
-                  "with": "src/environments/environment.prod.ts"
+                  "with": "src/environments/environment-prod.ts"
                 }
               ],
               "outputHashing": "all"
+            },
+            "stage":{
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.stage.ts"
+                }
+              ]
+            },
+            "test":{
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.test.ts"
+                }
+              ]
+            },
+            "dev":{
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.dev.ts"
+                }
+              ]
             },
             "development": {
               "buildOptimizer": false,
@@ -74,11 +98,20 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
-            "production": {
-              "browserTarget": "adyen:build:production"
+            "prod": {
+              "browserTarget": "prebuiltui:build:prod"
+            },
+            "stage": {
+              "browserTarget": "prebuiltui:build:stage"
+            },
+            "test": {
+              "browserTarget": "prebuiltui:build:test"
+            },
+            "dev": {
+              "browserTarget": "prebuiltui:build:dev"
             },
             "development": {
-              "browserTarget": "adyen:build:development"
+              "browserTarget": "prebuiltui:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -86,7 +119,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "adyen:build"
+            "browserTarget": "prebuiltui:build"
           }
         },
         "test": {
@@ -110,5 +143,5 @@
       }
     }
   },
-  "defaultProject": "adyen"
+  "defaultProject": "prebuiltui"
 }

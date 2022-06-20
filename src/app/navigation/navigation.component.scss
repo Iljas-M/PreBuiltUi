@@ -8,6 +8,10 @@
         display: flex;
         flex-flow: wrap;
         align-items: center;
+
+        .navbar-icon{
+            margin-left: 0.1rem;
+        }
     }
 
     .navbar-link-container{
